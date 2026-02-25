@@ -120,7 +120,7 @@ export const sounds =
     {
         "name": "DID HE JUST SAY HIS LAST NAME IS BURGER?",
         "color": "rgb(255, 70, 50)",
-        "mp3": "/sounds/newsounds/evan-burger.mp3"
+        "mp3": "/media/newsounds/evan-burger.mp3"
     },
     {
         "name": "The Undertaker Bell",
