@@ -230,7 +230,7 @@ export const sounds =
     {
         "name": "ERN",
         "color": "rgb(25, 75, 255)",
-        "mp3": "media/sounds/ERN.mp3"
+        "mp3": "media/sounds/ERN.MP3"
     },
     {
         "name": "oh my god bro oh hell nah man",
