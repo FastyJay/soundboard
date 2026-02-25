@@ -228,6 +228,11 @@ export const sounds =
         "mp3": "media/sounds/ack.mp3"
     },
     {
+        "name": "ERN",
+        "color": "rgb(25, 75, 255)",
+        "mp3": "media/sounds/ERN.mp3"
+    },
+    {
         "name": "oh my god bro oh hell nah man",
         "color": "rgb(7, 255, 6)",
         "mp3": "media/sounds/oh-my-god-bro-oh-hell-nah-man.mp3"
