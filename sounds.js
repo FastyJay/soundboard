@@ -118,6 +118,11 @@ export const sounds =
         "mp3": "/media/sounds/metal-pipe-clang.mp3"
     },
     {
+        "name": "DID HE JUST SAY HIS LAST NAME IS BURGER?",
+        "color": "rgb(255, 70, 50)",
+        "mp3": "/sounds/new sounds/evan burger.mp3"
+    },
+    {
         "name": "The Undertaker Bell",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/undertakers-bell_2UwFCIe.mp3"
