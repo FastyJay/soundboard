@@ -73,6 +73,11 @@ export const sounds =
         "mp3": "media/sounds/spongebob-fail.mp3"
     },
     {
+        "name": "SAY WALLAHI BRO",
+        "color": "rgb(202, 195, 26)",
+        "mp3": "media/sounds/saywallahi.mp3"
+    },
+    {
         "name": "romanceeeeeeeeeeeeee",
         "color": "rgb(255, 0, 0)",
         "mp3": "media/sounds/romanceeeeeeeeeeeeee.mp3"
