@@ -74,7 +74,7 @@ export const sounds =
     },
     {
         "name": "SAY WALLAHI BRO",
-        "color": "rgb(202, 195, 26)",
+        "color": "rgb(202, 255, 26)",
         "mp3": "media/sounds/saywallahi.mp3"
     },
     {
