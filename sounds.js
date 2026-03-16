@@ -63,6 +63,11 @@ export const sounds =
         "mp3": "media/sounds/gay_81KHxBA.mp3"
     },
     {
+        "name": "SPEED OMEGLE",
+        "color": "rgb(255, 0, 0)",
+        "mp3": "media/sounds/speedomegle.mp3"
+    },
+    {
         "name": "YOUR PHONE IS RINGING PICK IT UP NOW",
         "color": "rgb(2, 0, 23)",
         "mp3": "media/sounds/your-phone-is-ringing-pick-it-up-now.mp3"
