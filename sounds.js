@@ -53,6 +53,11 @@ export const sounds =
         "mp3": "media/sounds/anime-wow-sound-effect.mp3"
     },
     {
+        "name": "im bout to cuhh",
+        "color": "rgb(255, 51, 102)",
+        "mp3": "media/sounds/im-bout-to-cuhhhh.mp3"
+    },
+    {
         "name": "baby laughing meme",
         "color": "rgb(0, 233, 255)",
         "mp3": "media/sounds/baby-laughing-meme.mp3"
