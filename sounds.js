@@ -53,6 +53,11 @@ export const sounds =
         "mp3": "/media/sounds/among-us-role-reveal-sound.mp3"
     },
     {
+        "name": "STFU B*TCH",
+        "color": "rgb(57, 255, 20)",
+        "mp3": "/media/sounds/stfubitch.ogg"
+    },
+    {
         "name": "Chicken on tree screaming",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/chicken-on-tree-screaming.mp3"
