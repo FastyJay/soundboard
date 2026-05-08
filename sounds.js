@@ -33,6 +33,11 @@ export const sounds =
         "mp3": "/media/sounds/dry-fart.mp3"
     },
     {
+        "name": "NI*** NI*** NI*** NI***",
+        "color": "rgb(0, 0, 0)",
+        "mp3": "/media/sounds/nggr.mp3"
+    },
+    {
         "name": "Fahhh",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/fahhh_KcgAXfs.mp3"
