@@ -28,6 +28,11 @@ export const sounds =
         "mp3": "media/sounds/faaah.mp3"
     },
     {
+        "name": "Bust nut in water tower",
+        "color": "rgb(51, 245, 80)",
+        "mp3": "media/sounds/bust-nut-in-water-tower.mp3"
+    },
+    {
         "name": "Fart",
         "color": "rgb(102, 51, 0)",
         "mp3": "media/sounds/dry-fart.mp3"
